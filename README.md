@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif" width="100"/>
 
-<div align="center">
+
 
 # Olá, eu sou a Emy! 👾
 
