@@ -24,7 +24,6 @@ Explorando UI/UX, Web Dev e o universo tech ✨
 - 💼 Assistente de Engenharia de Produto na Tecnovidro
 - 🎨 Apaixonada por UI/UX e Web Development
 - 🐧 Explorando o mundo Linux
-- 🎮 Fã de Pokémon
 
 ---
 
